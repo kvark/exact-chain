@@ -1,0 +1,15 @@
+[package]
+name = "exact-chain"
+version = "0.1.0"
+description = "Chain itereration with the exact size guarantee"
+homepage = "https://github.com/kvark/exact-chain"
+repository = "https://github.com/kvark/exact-chain"
+keywords = ["iterator"]
+license = "MIT OR Apache-2.0"
+authors = ["Dzmitry Malyshau"]
+documentation = "https://docs.rs/exact-chain"
+edition = "2018"
+
+[dependencies]
+
+[lib]
